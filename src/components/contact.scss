@@ -1,0 +1,28 @@
+.contact-details {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-details p {
+  position: absolute;
+  right: 60px;
+  top: 80px;
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.contact-details img {
+  position: absolute;
+  top: 280px;
+  left: 40px;
+  width: 420px;
+  height: 400px;
+}
+
+.address {
+  position: absolute;
+  right: 60px;
+  top: 350px;
+  font-size: 50px;
+  line-height: 120px;
+}

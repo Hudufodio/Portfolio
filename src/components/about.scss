@@ -1,0 +1,18 @@
+.about {
+  display: flex;
+  justify-content: center;
+}
+
+.about p {
+  position: absolute;
+  font-size: 40px;
+  line-height: 100px;
+  top: 170px;
+  font-weight: 600;
+}
+
+.about img {
+  position: absolute;
+  top: 170px;
+  right: 30px;
+}
